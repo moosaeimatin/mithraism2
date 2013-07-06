@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: #B4B4B4 url("../images/bkg.png") 0 0;
+  background: #B4B4B4;
   color: #eaeaea;
   font: 16px;
   line-height: 1.5;
@@ -181,7 +181,7 @@ td {
 hr {
   height: 0;
   border: 0;
-  border-bottom: 1px dashed #b5e853;
+  border-bottom: 1px dashed #135764;
   color: #135764;
 }
 
